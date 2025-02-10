@@ -13,7 +13,7 @@ A demonstration project showcasing Firebase integration in an Android app. This 
 ✅ Firebase Hosting (if applicable)
 
 ## **Tech Stack 🛠️**
-Language: Java / Kotlin
+Language: Java 
 Database: Firebase Firestore & Realtime Database
 Backend: Firebase Functions (optional)
 Authentication: Firebase Auth
