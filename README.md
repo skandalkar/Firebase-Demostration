@@ -1,4 +1,4 @@
-# Firebase-Demostration
+# Firebase-Demonstration
 Demonstration of integration and use of Firebase into Android application
 
 ## **FirebaseDemonstration 🚀**
